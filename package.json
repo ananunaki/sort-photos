@@ -1,0 +1,32 @@
+{
+    "name": "sort-photos",
+    "version": "1.0.2",
+    "description": "sort photos by name or exif create date",
+    "main": "main.js",
+    "dependencies": {
+      "exif": "^0.6.0",
+      "exiftool-vendored": "^14.3.0",
+      "node-dir": "^0.1.17"
+    },
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "sorting",
+      "img",
+      "sorting",
+      "photo",
+      "sort"
+    ],
+    "author": "ananun",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/ananunaki/sort-photos.git"
+    },
+    "bugs": {
+      "url": "https://github.com/ananunaki/sort-photos/issues"
+    },
+    "homepage": "https://github.com/ananunaki/sort-photos#readme"
+  }
+  
